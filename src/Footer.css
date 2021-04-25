@@ -1,0 +1,28 @@
+.footer {
+    background-color: #131921;
+    width: 100%;
+    height: 200px;
+    margin-top: auto;
+}
+
+.footer__icons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+    color: white;
+    margin-left: 46.5%;
+}
+
+.footer > p {
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.footer > img {
+    width: 100px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 18px;
+    margin-left: 47.5%;
+}
